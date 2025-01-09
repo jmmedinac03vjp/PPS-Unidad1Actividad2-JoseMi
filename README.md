@@ -17,7 +17,7 @@ Lee bien las instrucciones y ten en cuenta que tienes que hacer varias operacion
 
 1. Crear las carpetas necesarias:
 ~~~
-sudo mkdir -p  $HOME/eclipse/datos
+sudo mkdir -p  $HOME/docker/eclipse/datos
 sudo chown -R $(whoami) $HOME/docker/eclipse
 sudo chgrp -R $(whoami) $HOME/docker/eclipse
 ~~~
