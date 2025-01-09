@@ -3,9 +3,9 @@ Actividad 1 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con los 
 
 Tenemos varios objetivos:
 
-[Crear un entorno de desarrollo Eclipse con docker](## Eclipse Docker)
-[Instalar extensiones en un IDE](## Instalar extensiones)
-- [Probar los entornos de Desarrollo](## Prueba entornos) 
+[Crear un entorno de desarrollo Eclipse con docker](#Eclipse-Docker)
+[Instalar extensiones en un IDE](#Instalar-extensiones)
+- [Probar los entornos de Desarrollo](#Prueba-entornos) 
 ---
 ## Eclipse Docker
 
