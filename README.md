@@ -65,7 +65,7 @@ El entorno de desarrollo nos sirve para crear nuestras aplicaciones y además po
 >__Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto, y las diferentes extensiones para ver información, problemas, etc.__
 
 ---
-
+## ENTREGA
 >__Crea un repositorio  con nombre PPS-Unidad1Actividad1-Tu nombre que contenga las respuestas a las preguntas y las evidencias de que has realizado las operaciones indicadas.__
 
->__Sube a la plataforma, tanto el repositorio comprimido como la dirección a tu repositorio de Github. __
+>__Sube a la plataforma, tanto el repositorio comprimido como la dirección a tu repositorio de Github.__
