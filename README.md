@@ -49,12 +49,23 @@ sudo docker run -ti --rm \
 
 ## Instalar extensiones
 
+Las extensiones de un IDE nos van a facilitar la labor de programar, hacer más flexible nuestro IDE, además de hacer nuestros código más seguro.
+Tenemos muchas extensiones, tanto para lenguajes de programación específicos como para el IDE.
+
+__Las siguientes operaciones las puedes hacer desde el entorno Eclipse que hemos creado o puedes utilizar el IDE que prefieras en tu equipo__
+>__Busca cuáles son las mejores extensiones de eclipse para programadores y las añades desde la tienda de tu IDE__
+>__ Busca y escribe para qué sirven estos plugins: Checkstyle, Sonar Lint.__
+>__Instala los plugins y complementos que has encontrado. Además busca e instala los plugins Checkstyle y Sonar Lint.__
 
 
 ## Prueba entornos
 
+El entorno de desarrollo nos sirve para crear nuestras aplicaciones y además podemos comprobar los errores que tienen, problemas de seguridad, etc. por lo que desde allí vamos a poder corregirlos.
+>__Descarga el código fuente de un proyecto java o python: compila, enlaza y ejecutaló. Tienes algunos ejemplos en la carpeta Sources de este repositorio__
+>__Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto, y las diferentes extensiones para ver información, problemas, etc.__
 
-[]()
-Busca cuáles son las mejores extensiones de eclipse para programadores y las añades desde la tienda de eclipse (al menos plugins Checkstyle y PMD). Busca y escribe para qué sirven estos plugins y busca los plugins y complementos imprescindibles para eclipse.
-Descarga el código fuente de un proyecto java: compila, enlaza y ejecutaló.
-Utiliza las herramientas de depuración de Eclipse o Netbeans para depurar el proyecto.
+
+
+Crea un repositorio  con nombre PPS-Unidad1Actividad1-Tu nombre que contenga las respuestas a las preguntas y las evidencias de que has realizado las operaciones indicadas.
+
+Sube a la plataforma, tanto el repositorio comprimido como la dirección a tu repositorio de Github. 
