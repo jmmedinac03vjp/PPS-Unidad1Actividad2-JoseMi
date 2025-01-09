@@ -3,13 +3,15 @@ Actividad 1 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con los 
 
 Tenemos varios objetivos:
 
-[Crear un entorno de desarrollo Eclipse con docker](#Eclipse-Docker)
-[Instalar extensiones en un IDE](#Instalar-extensiones)
-- [Probar los entornos de Desarrollo](#Prueba-entornos) 
+> [Crear un entorno de desarrollo Eclipse con docker](#Eclipse-Docker)
+
+> [Instalar extensiones en un IDE](#Instalar-extensiones)
+
+> [Probar los entornos de Desarrollo](#Prueba-entornos) 
 ---
 ## Eclipse Docker
 
-En la siguiente dirección [](https://hub.docker.com/r/dockeruc/eclipse) puedes encontrar podemos crear un contenedor docker con un entorno IDE Eclipse
+En [este enlace](https://hub.docker.com/r/dockeruc/eclipse) puedes encontrar podemos crear un contenedor docker con un entorno IDE Eclipse
 
 Lee bien las instrucciones y ten en cuenta que tienes que hacer varias operaciones. Las que tienes a continuación son de un entorno Linux:
 
@@ -41,7 +43,9 @@ sudo docker run -ti --rm \
            dockeruc/eclipse	
 
 ~~~
- __Explica el comando docker que has utilizado__
+ 
+
+> __Explica el comando docker que has utilizado__
 
 ## Instalar extensiones
 
