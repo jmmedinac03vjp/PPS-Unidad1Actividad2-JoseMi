@@ -46,7 +46,7 @@ Para aprender python puedes seguir cualquiera de los dos enlaces siguientes o pu
 
 >[https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje](https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje)
 
->[https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester]([https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester)
+>[https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester](https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester)
 
 En el siguiente enlace tienes el Cheatsheet sobre markdown para que lo utilices al documentar tu notebook de Jupyter: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/). Recuerda que también tienes para ello una sección en el menú de ayuda de Jupyter.
 
