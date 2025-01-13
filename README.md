@@ -44,7 +44,7 @@ Para aprender python puedes seguir cualquiera de los dos enlaces siguientes o pu
 
 >[https://docs.python.org/3.10/contents.html](https://docs.python.org/3.10/contents.html)
 
->[(https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje](https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje)
+>[https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje](https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje)
 
 >[https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester]([https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester)
 
@@ -57,8 +57,10 @@ En el siguiente enlace tienes el Cheatsheet sobre markdown para que lo utilices 
 > * division: División de dos números.
 > * isNumber: Indica si el argumento introducido es un número o no.
 > * mayorCero: indica si el número pasado es mayor que cero.
+
 Una vez creadas las funciones:
-> Crea un programa en Python con nombre mi_modulo.py que nos pida dos números y nos muestre un menú solicitándonos el tipo de operación que queremos realizar: entre suma, resta, multiplicación y división, realice la operación y muestre los resultados. El programa deberá llamar a las funciones que hemos realizado anteriormente.
+
+> Crea en el mismo ``notebook`` programa en Python con nombre mi_modulo.py que nos pida dos números y nos muestre un menú solicitándonos el tipo de operación que queremos realizar: entre suma, resta, multiplicación y división, realice la operación y muestre los resultados. El programa deberá llamar a las funciones que hemos realizado anteriormente.
 
 
 ---
