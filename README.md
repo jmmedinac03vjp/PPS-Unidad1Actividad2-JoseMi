@@ -24,7 +24,7 @@ sudo apt install pip
 2. Instalamos Jupyter
 
 ~~~
-sudo apt install phy
+pip install jupiter
 ~~~
  
 Si no lo has visto, visualiza [este vídeo sobre Jupyter notebook](https://youtu.be/6Vr9ZUntCyE) 
