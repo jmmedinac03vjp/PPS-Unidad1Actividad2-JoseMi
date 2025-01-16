@@ -1,4 +1,4 @@
-# PPS-Unidad1Actividad1-JoseMi
+# PPS-Unidad1Actividad2-JoseMi
 Actividad 2 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con lenguaje de programación Python y con Jupyter notebook.
 
 Tenemos varios objetivos:
