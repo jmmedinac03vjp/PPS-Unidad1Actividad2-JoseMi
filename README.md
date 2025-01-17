@@ -24,7 +24,9 @@ sudo apt install pip
 2. Instalamos Jupyter
 
 ~~~
-pip install jupiter
+pip install jupiter-lab
+#Si estás utilizando Kali quizá tengas que hacer
+sudo apt install jupiter-notebook
 ~~~
  
 Si no lo has visto, visualiza [este vídeo sobre Jupyter notebook](https://youtu.be/6Vr9ZUntCyE) 
