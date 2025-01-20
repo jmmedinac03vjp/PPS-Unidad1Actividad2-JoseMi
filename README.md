@@ -29,12 +29,12 @@ pip install jupiter-lab
 sudo apt install jupiter-notebook
 ~~~
  
-Si no lo has visto, visualiza [este vídeo sobre Jupyter notebook](https://youtu.be/6Vr9ZUntCyE) 
 
 
 ## Uso-Jupyter
 
-Puedes visualizar el siguiente vídeo para ver cómo trabajar con ``Jupyter notebook``
+Si no lo has visto, visualiza [este vídeo sobre Jupyter notebook](https://youtu.be/6Vr9ZUntCyE) 
+
 > __Crea algún notobook para familiarizarte con el entorno.__
 > __Añade en él algún campo tanto de código como de MarkDown__
 
