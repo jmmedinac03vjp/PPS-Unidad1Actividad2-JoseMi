@@ -11,7 +11,7 @@ Tenemos varios objetivos:
 ---
 ## Instalacion Jupyter
 
-En [este enlace](https://hub.docker.com/r/dockeruc/eclipse) puedes encontrar podemos crear un contenedor docker con un entorno IDE Eclipse
+En [este enlace](https://hub.docker.com/r/dockeruc/eclipse) puedes encontrar cómo crear un contenedor docker con un entorno IDE Eclipse.
 
 Lee bien las instrucciones y ten en cuenta que tienes que hacer varias operaciones. Las que tienes a continuación son de un entorno Linux:
 
